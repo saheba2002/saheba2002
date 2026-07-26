@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saheba2002
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning msc computer science
+- 👋 Hi, I’m Saheba iffath Y
+- 👀 I’m interested in IT TEchnical Support
+- 🌱 I completed  msc computer science
 - 📫 How to reach me sahebaofffical
 <!---
 saheba2002/saheba2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
